@@ -1,6 +1,6 @@
 # Infection Risk Prediction using Graph Neural Networks
 
-This repository contains the source code for the manuscript **"[Insert Paper Title]"**, published in *npj Digital Medicine*. It implements various Graph Neural Networks (GAT, GCN, GraphSAGE, STM-GNN, TGN) to predict infection risks across multiple datasets, incorporating both standard and epidemiology-informed neural network architectures.
+This repository contains the source code for the manuscript **"Epidemiology-informed Neural Networks, Graph Neural Networks, Hospital-Acquired Infections, Infection Risk Prediction"**, in review at *npj Digital Medicine*. It implements various Graph Neural Networks (GAT, GCN, GraphSAGE, STM-GNN, TGN) to predict infection risks across multiple datasets, incorporating both standard and epidemiology-informed neural network architectures.
 
 ## Repository Structure
 
