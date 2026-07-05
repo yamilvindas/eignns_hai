@@ -469,39 +469,6 @@ def main():
     # Number of epidemiological parameters
     if ('murcia' in results_folder.lower()):
         """
-        # OLD VERSION
-        n_epi_params = 11
-        
-        A_gt = 18.603
-        A_S_gt = 0.997
-        A_E_gt = 0
-        A_I_gt = 0.002
-        A_R_gt = 0
-        A_NS_gt = 0.001
-        beta_gt = 1/(0.435 + 0.24)
-        mu_gt = 0.027
-        los_gt = 4.254
-        dis_rate_gt = 1/los_gt
-        alpha_gt = 1/2.5
-        gamma_gt = 1 - mu_gt
-        
-        true_params = np.array(
-                                [
-                                    beta_gt,
-                                    A_gt,
-                                    A_S_gt,
-                                    A_E_gt,
-                                    A_I_gt,
-                                    A_R_gt,
-                                    A_NS_gt,
-                                    dis_rate_gt,
-                                    alpha_gt,
-                                    gamma_gt,
-                                    mu_gt
-                                ]
-                            )
-        """
-        """
         # NEW VERSION
         n_epi_params = 5
 
