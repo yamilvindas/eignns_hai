@@ -1,6 +1,6 @@
 # Infection Risk Prediction using Graph Neural Networks
 
-This repository contains the source code for the manuscript **"[Insert Paper Title]"**, published in *npj Digital Medicine*. It implements various Graph Neural Networks (GAT, GCN, GraphSAGE, STM-GNN, TGN) to predict infection risks across multiple datasets, incorporating both standard and epidemiology-informed neural network architectures.
+This repository contains the source code for the manuscript **"Epidemiology-informed Neural Networks, Graph Neural Networks, Hospital-Acquired Infections, Infection Risk Prediction"**, in review at *npj Digital Medicine*. It implements various Graph Neural Networks (GAT, GCN, GraphSAGE, STM-GNN, TGN) to predict infection risks across multiple datasets, incorporating both standard and epidemiology-informed neural network architectures.
 
 ## Repository Structure
 
@@ -103,6 +103,6 @@ python src/Utils/population_level_metrics.py \
 
 ## Data and Pre-trained Models
 
-The complete dataset artifacts, Optuna SQLite databases, and trained model weights associated with this codebase are publicly available on Zenodo.
+The complete dataset artifacts, Optuna SQLite databases, and trained model weights associated with this codebase are publicly available on Zenodo: [Zenodo record][zenodo-link]
 
-    Zenodo Record: [Click here to view the Zenodo record](https://zenodo.org/records/21193522?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjJmZWYzMzQ5LWJkMjQtNGU5Yi05MzY5LTU0Nzc3ZmFiYzA5OCIsImRhdGEiOnt9LCJyYW5kb20iOiI5MjA5MzRkYzM0ZjIxOTFkNTVhMjU2ZWVlMDBjYmQwNCJ9.aeDM27mbYbvjvyZX_cBUFvxm4Ofjyv2us56uSLrF6uR09Na9GLMifOBPbmwyZWibh9SLjUMjUkQlZJ4BTIIevA)
+[zenodo-link]: https://zenodo.org/records/21193522?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjJmZWYzMzQ5LWJkMjQtNGU5Yi05MzY5LTU0Nzc3ZmFiYzA5OCIsImRhdGEiOnt9LCJyYW5kb20iOiI5MjA5MzRkYzM0ZjIxOTFkNTVhMjU2ZWVlMDBjYmQwNCJ9.aeDM27mbYbvjvyZX_cBUFvxm4Ofjyv2us56uSLrF6uR09Na9GLMifOBPbmwyZWibh9SLjUMjUkQlZJ4BTIIevA
