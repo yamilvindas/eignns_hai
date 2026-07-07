@@ -1,0 +1,9 @@
+Prediction_Horizon,Method,Experiment_Name,Repetition,beta,sigma,gamma
+7,AutoDiff,EpidemioInformed_PredHor-7_AutoDiff_GAT_SimpleTrain_Dataset-SocioPatterns_04.03.2026_135056_0,0,tensor(8.2966e-07),tensor(3.3176),tensor(0.0306)
+7,AutoDiff,EpidemioInformed_PredHor-7_AutoDiff_GraphSage_SimpleTrain_Dataset-SocioPatterns_03.03.2026_111348_0,0,tensor(5.0052e-07),tensor(0.6937),tensor(1.8119e-09)
+7,AutoDiff,EpidemioInformed_PredHor-7_AutoDiff_STM_SimpleTrain_Dataset-SocioPatterns_05.03.2026_120747_0,0,tensor(0.5265),tensor(0.1566),tensor(0.0915)
+7,AutoDiff,EpidemioInformed_PredHor-7_AutoDiff_TGN_SimpleTrain_Dataset-SocioPatterns_03.03.2026_215724_0,0,tensor(0.6592),tensor(0.7056),tensor(0.6788)
+7,ODE-NSP,EpidemioInformed_PredHor-7_ODE-NSP_GAT_SimpleTrain_Dataset-SocioPatterns_06.03.2026_233937_0,0,tensor(1.1086),tensor(0.2784),tensor(0.0796)
+7,ODE-NSP,EpidemioInformed_PredHor-7_ODE-NSP_GraphSage_SimpleTrain_Dataset-SocioPatterns_07.03.2026_082253_0,0,tensor(2.7417),tensor(0.2935),tensor(0.0616)
+7,ODE-NSP,EpidemioInformed_PredHor-7_ODE-NSP_STM_SimpleTrain_Dataset-SocioPatterns_09.03.2026_163854_0,0,tensor(4.8541),tensor(0.2850),tensor(0.0529)
+7,ODE-NSP,EpidemioInformed_PredHor-7_ODE-NSP_TGN_SimpleTrain_Dataset-SocioPatterns_07.03.2026_161752_0,0,tensor(0.5745),tensor(0.1615),tensor(0.0841)

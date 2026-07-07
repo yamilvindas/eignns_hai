@@ -1,0 +1,9 @@
+Prediction_Horizon,Method,Experiment_Name,Repetition,beta,A,A_S,A_E,A_I,A_R,A_NS,dis_rate,alpha,gamma,mu
+7,AutoDiff,EpidemioInformed_PredHor-7_AutoDiff_GAT_SimpleTrain_Dataset-Murcia_10.03.2026_104811_0,0,tensor(0.8756),tensor(18.1098),tensor(0.9161),tensor(3.3832e-06),tensor(0.0292),tensor(3.3832e-06),tensor(0.0073),tensor(0.2597),tensor(0.6901),tensor(0.7029),tensor(0.4562)
+7,AutoDiff,EpidemioInformed_PredHor-7_AutoDiff_GraphSage_SimpleTrain_Dataset-Murcia_10.03.2026_105338_0,0,tensor(0.0006),tensor(0.0508),tensor(2.0626),tensor(0.8888),tensor(0.6154),tensor(0.6729),tensor(1.2015),tensor(0.0032),tensor(1.4858),tensor(2.6198),tensor(1.8055)
+7,AutoDiff,EpidemioInformed_PredHor-7_AutoDiff_STM_SimpleTrain_Dataset-Murcia_20.03.2026_052649_0,0,tensor(0.0116),tensor(9.8726),tensor(0.7916),tensor(12.1019),tensor(0.2197),tensor(4.4483),tensor(1.1708),tensor(0.0685),tensor(1.8746),tensor(0.2603),tensor(2.3140)
+7,AutoDiff,EpidemioInformed_PredHor-7_AutoDiff_TGN_SimpleTrain_Dataset-Murcia_17.03.2026_105938_0,0,tensor(0.0503),tensor(1.2185),tensor(0.3315),tensor(0.5070),tensor(0.2843),tensor(0.1567),tensor(0.9378),tensor(0.1761),tensor(0.0850),tensor(0.5809),tensor(0.7284)
+7,ODE-NSP,EpidemioInformed_PredHor-7_ODE-NSP_GAT_SimpleTrain_Dataset-Murcia_07.03.2026_005508_0,0,tensor(0.1577),,,,,,,tensor(0.2349),tensor(0.3536),tensor(0.2573),tensor(0.0949)
+7,ODE-NSP,EpidemioInformed_PredHor-7_ODE-NSP_GraphSage_SimpleTrain_Dataset-Murcia_07.03.2026_010830_0,0,tensor(0.2339),,,,,,,tensor(0.2349),tensor(0.3918),tensor(0.2745),tensor(0.2377)
+7,ODE-NSP,EpidemioInformed_PredHor-7_ODE-NSP_STM_SimpleTrain_Dataset-Murcia_17.03.2026_201700_0,0,tensor(0.2048),,,,,,,tensor(0.2325),tensor(0.4459),tensor(0.1878),tensor(0.1748)
+7,ODE-NSP,EpidemioInformed_PredHor-7_ODE-NSP_TGN_SimpleTrain_Dataset-Murcia_15.03.2026_001305_0,0,tensor(0.1533),,,,,,,tensor(0.2325),tensor(0.4694),tensor(0.3593),tensor(0.3808)
